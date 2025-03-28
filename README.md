@@ -134,6 +134,12 @@ By focusing on customer loyalty, product personalization, and regional insights,
 ![Capture d'écran 2025-03-28 203104](https://github.com/user-attachments/assets/ef224837-6835-454c-b52e-27e422599fec)
 
 
+
+
+
+
+
+
 ![Capture d'écran 2025-03-28 203132](https://github.com/user-attachments/assets/d85f709a-8226-4faf-8169-67f2eab95747)
 
 
