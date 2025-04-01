@@ -41,6 +41,8 @@ Database: MySQL
 
 
 Python Libraries: 
+
+
 Pandas 
 Numpy 
 Mysql connector  
