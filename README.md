@@ -38,6 +38,8 @@ The objective is to provide insights that will help Shop Easy improve engagement
 # Technologies Used: 
 
 Database: MySQL 
+
+
 Python Libraries: 
 Pandas 
 Numpy 
